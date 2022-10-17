@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomateus00&label=Profile%20views&color=0e75b6&style=flat" alt="joaomateus00" /> </p>
 
-- 🔭 Atualmente não estou em nenhum emprego, somente em busca da minha primeira oportunidade de trabalho. **Busca de Trabalho**
+- 🔭 Atualmente não estou em nenhum emprego, somente em busca da minha primeira oportunidade de trabalho. 
 
 - 🌱 Atualmente estou aprendendo **HTML,CSS, JavaScript, Node.Js, React, Firebase**
 
-- 🤝 Procuro ajuda para aprofundar meus conhecimentos no FRONT-END **Busco Ajuda**
+- 🤝 Procuro ajuda para aprofundar meus conhecimentos no FRONT-END 
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados no site: [https://joaomateusdevelopment.netlify.app/](https://joaomateusdevelopment.netlify.app/)
 
